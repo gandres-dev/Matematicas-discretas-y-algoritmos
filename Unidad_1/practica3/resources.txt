@@ -1,0 +1,13 @@
+links sobre graficas
+http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2227-18992019000100045
+
+http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-55462016000100089
+
+
+Comunidades
+https://memgraph.com/blog/community_detection-algorithms_with_python_networkx
+
+https://steemit.com/spanish/@sethroot/aplicacion-de-grafos-en-python-networkx-grafos-en-python
+
+https://orbifold.net/default/community-detection-using-networkx/
+
