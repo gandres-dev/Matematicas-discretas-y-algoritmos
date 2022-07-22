@@ -121,3 +121,4 @@ T. Cormen et al. Introduction to algorithms
 1. Notas del Curso.[Liga](http://madi.nekomath.com/intro.html)
 2. Blog MADI. [Liga](https://blog.nekomath.com/madi/)
 3. Practicas MADI.[Liga](https://github.com/RodolfoFigueroa/madi2022-1)
+4. Mas notas sobre Data Structures and Algorithms [Liga](https://btholt.github.io/complete-intro-to-computer-science/)
