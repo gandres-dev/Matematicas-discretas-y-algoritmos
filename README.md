@@ -27,76 +27,36 @@ Repositorio de notas, practicas, tareas y proyectos del curso de Matemáticas Di
     - [Extra: Scraping](https://nbviewer.org/github/gandres-dev/Matematicas-discretas-y-algoritmos/blob/main/Practicas/Extra/01_Scraping.ipynb) 
 <!-- - []() -->
 
-<!-- ---
-## [Proyecto (Aplicación de MCMC)](https://nbviewer.org/github/gandres-dev/Probabilidad-aplicada-y-simulacion-estocastica/blob/main/Proyecto/Codigo/Aplicacion-MCMC.ipynb)
-Las técnias de Monte Carlo vía cadenas de Markov permiten generar, de menera iterativa, observaciones de distribuciones multivariadas que difícilmente podrían simularse. 
+---
 
-La idea básica es construir una cadena de Markov que sea fácil de simular y cuya distribución estacionaria corresponda a la distribución objetivo que nos interesa. De esta manera, al implementar correctamente el algoritmo, la convergencia de la cadena está garantizada, independientemente de cuáles sean los valores iniciales.
+## [Proyecto (Mercados mexicanos)](https://nbviewer.org/github/gandres-dev/Matematicas-discretas-y-algoritmos/blob/main/Proyecto/notebook/Proyecto_MercadosCDMX.ipynb)
 
-![demo](Proyecto/img/demo.gif) -->
+Una de las cosas que nos han caracterizado a México son sus mercados tradicionales, podemos
+encontrar pasillo repletos de frutas, verduras, flores, carnes, lácteos, abarrotes y dulces de muchos
+sabores en los diferentes mercados de la Ciudad de México. Hemos observado que los diversos mercados
+registrados en el gobierno de la ciudad tienen una antigüedad que abarca desde 1957 hasta nuestro
+dı́as, por eso hemos decidido a promover y dar conocer a todos los turista que visiten la Ciudad de
+México a pasar por cada uno de ellos sin pasar dos veces en el mismo para disfrutar de la extensa y variedad de artesanı́as, comidas, dulces mexicanos entre muchas cosas más.
+
+![mercados](Proyecto//doc/img/mapa_mercado_cmdx.png)
+
+Good Reference about Traveling Salesman Problem: https://youtu.be/GiDsjIBOVoA
 
 ---
-## Temario
-- **Unidad 1: Fundamentos matemáticos**
-    - Introducción a principio de inducción
-    - Principio de inducción combinado con heurísticas
-    - Variantes del principio de inducción
-    - Definiciones recursivas
-    - Sucesiones recursivas y recursiones lineales
-    - Recursión e inducción
-    - Introducción a teoría de gráficas
-    - Grados, vecindades y teorema de Euler
-    - Caminos, trayectorias y ciclos
-    - Conexidad y distancia en gráficas
-    - Árboles y bosques
-    - Gráficas bipartitas, emparejamientos y teorema de Hall
-    - Conjuntos Independientes y coloraciones
-    - Gráficas planas y teorema de Kuratowski
-    - Gráficas de contextos geométricos        
-    - Principio de las casillas
-    - El teorema de Turán
-    - El teorema de Ramsey
-- **Unidad 2: Fundamentos algorítmicos**
-    - Problemas algorítmicos
-    - Análisis de correctitud
-    - Pensamiento asintótico
-    - El modelo RAM
-    - Análisis de complejidad asintótica en tiempo y espacio
-    - Estructuras de datos
-    - Árboles binarios balanceados y búsqueda binaria
-    - El problema de ordenar elementos
-    - Algoritmos de ordenamiento cuadráticos
-    - Heaps y heap-sort
-    - Quick-sort
-    - Aplicaciones de ordenar
+## Profesor
+[Leonardo Ignacio Martinez Sandoval](https://github.com/leomtz)
 
-- **Tipos de algoritmos**
-    - Espacios de estados y exploración exhaustiva
-    - Algoritmos voraces
-    - Algoritmos divide y vencerás
-    - Algoritmos recursivos y el teorema maestro
-    - Programación dinámica
-    - Búsquedas combinatorias
-    - Backtrack
-    - Exploración de subconjuntos, permutaciones y combinaciones
-    - Métodos heurísticos y probabilísticos
-  
-- **Unidad 4: Algoritmos fundamentales en teoría de gráficas**
-    - Implementaciones de gráficas, gráficas ponderadas, gráficas dirigidas y redes.
-    - Búsqueda en profundidad y aplicaciones
-    - Búsqueda en anchura y aplicaciones
-    - Ordenamientos topológicos
-    - Árboles de peso mínimo: algoritmos de Prim y Kruskal
-    - Caminos de peso mínimo: algoritmos de Dijkstra y Floyd-Warshall
-    - Introducción a redes y flujos
-    - Teorema del flujo máximo – corte mínimo
-    - Algoritmo de Ford-Fulkerson y variantes  
+Ayudante: [Rodolfo Figueroa](https://github.com/RodolfoFigueroa)
 
-- **Extra: Problemas difíciles**
-    - Reducciones de problemas
-    - Clases P y NP
-    - P vs NP
-    - Problemas de gráficas NP-completos
+---
+
+## Recursos electrónicos
+1. Notas del Curso.[Liga](http://madi.nekomath.com/intro.html)
+2. Blog MADI. [Liga](https://blog.nekomath.com/madi/)
+3. Practicas MADI.[Liga](https://github.com/RodolfoFigueroa/madi2022-1)
+4. Classes and Teaching by Erik Demaine. [Liga](https://erikdemaine.org/classes/)
+5. Mas notas sobre Data Structures and Algorithms [Liga](https://btholt.github.io/complete-intro-to-computer-science/)
+
 ---
 ## Bibliografía
 __Texto principal__
@@ -112,13 +72,4 @@ __Textos auxiliares__
 1. Gayle L. McDowell. Cracking the coding interview
 T. Cormen et al. Introduction to algorithms
 
----
-## Profesor
-**Leonardo Ignacio Martínez Sandoval**  
 
----
-## Recursos electrónicos
-1. Notas del Curso.[Liga](http://madi.nekomath.com/intro.html)
-2. Blog MADI. [Liga](https://blog.nekomath.com/madi/)
-3. Practicas MADI.[Liga](https://github.com/RodolfoFigueroa/madi2022-1)
-4. Mas notas sobre Data Structures and Algorithms [Liga](https://btholt.github.io/complete-intro-to-computer-science/)
