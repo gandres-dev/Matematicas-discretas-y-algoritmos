@@ -1,0 +1,61 @@
+Videos-recomendacion 
+1- Sobre el problema 10 de Hilbert (del min 36 al 44) : https://www.youtube.com/watch?v=GbjTYRfj3To
+
+2. Sobre Maquinas de Turing: https://www.youtube.com/watch?v=iaXLDz_UeYY
+
+3. El juego de la Vida: https:
+https://www.youtube.com/watch?v=OWXD_wJxCKQ
+https://www.youtube.com/watch?v=omMcrvVGTMs
+https://www.youtube.com/watch?v=qPtKv9fSHZY
+https://www.youtube.com/watch?v=xgZuW6Jz5dc
+
+4. Sobre El juego de la vida, Completitud, Consistencia y Decibilidad 
+https://www.youtube.com/watch?v=RRg38oNQ9vk
+
+5. Torres de Hanoi 
+https://www.youtube.com/watch?v=LM68IQvIo_E
+
+6. Acerca de Autotune 
+https://www.youtube.com/watch?v=a_H1nQkGUrE
+
+7. Acerca de Shazam
+https://www.youtube.com/watch?v=OE4gcdjFbmc
+
+8. Acerca de Redes Neuronales
+https://www.youtube.com/watch?v=JBZx03342eM
+https://www.youtube.com/watch?v=MRIv2IwFTPg
+https://www.youtube.com/watch?v=uwbHOpp9xkc
+https://www.youtube.com/watch?v=eNIqz_noix8
+https://www.youtube.com/watch?v=M5QHwkkHgAA
+Blog: Sobre Google https://rockcontent.com/es/blog/quien-fundo-google/
+
+9. Danzas de algorimos de ordenación
+https://www.youtube.com/watch?v=XaqR3G_NVoo
+https://www.youtube.com/watch?v=Xw2D9aJRBY4
+https://www.youtube.com/watch?v=ywWBy6J5gz8
+
+10. ¿P=NP?
+https://www.youtube.com/watch?v=UR2oDYZ-Sao
+https://www.youtube.com/watch?v=d9ViJJnRCF4
+
+11. Charla de Geometría 
+https://www.youtube.com/watch?v=3FX20GhSly0
+y agrego el link a este: https://www.dropbox.com/s/2i8crh4ydf8vu0q/Planar%20point%20sets%20determine%20many%20pairwise%20crossing%20segments.pdf?dl=0
+
+12. Sobre logaritmos 
+https://www.youtube.com/watch?v=qKf2EwInKbA
+https://www.youtube.com/watch?v=Zw5t6BTQYRU
+
+13. Página de Erik Demaine:https://erikdemaine.org/classes/ 
+y ejercicios de recursiones: https://www.dropbox.com/sh/o30eechyidb2w6x/AACHmT0FvNsvysp6jcFG-VGSa?dl=0
+
+14. Algoritmo de multiplicar 
+https://www.youtube.com/watch?v=ulBEE30G3SE
+Sobre el producto de matrices :https://www.investigacionyciencia.es/noticias/el-producto-de-matrices-en-pos-de-una-meta-mtica-19718
+
+
+
+
+
+
+
