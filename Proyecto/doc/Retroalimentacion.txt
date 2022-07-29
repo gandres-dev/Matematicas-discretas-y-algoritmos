@@ -1,0 +1,10 @@
+A: 3 pts. Base de datos de mercados CDMX
+B: 3 pts. Se plantea el clásico problema del agente viajero, aunque justificado en algunas aplicaciones turísticas y económicas. Falta escribirlo de manera matemática formal, con sus entradas y salidas.
+C: 3 pts. Se mencionan dos formas de atacar el problema y se comparan entre sí.
+D: 3 pts. Se discute superficialmente la eficiencia de los algoritmos propuestos. Se habla un de la correctitud, pero no hay demostraciones. Hubiera estado bien realmente hacer el procedimiento exhaustivo en un caso específico para compararlo numéricamente con el procedimiento greedy.
+E: 3 pts. En general el documento tiene un buen balance entre texto, símbolos, código y figuras. Le falta más en presentación. Hay varios errores de dedo. Algunas figuras tienen datos encimados.
+F: 1 pt. El documento tiene menos de lo esperado. Se plantean dos problemas, pero eso deja débil la argumentación. Sería mejor enfocarse en uno solo. Hay varios errores de dedo, aquí sí bajan puntos pues en este documento es muy importante la presentación. En los recursos computacionales hay que traducir las complejidades asintóticas técnicas a algo más entendible.
+G: 4 pts. Muy buena implementación. Usa ideas de programación orientada a objetos. Usa algoritmos de backtrack. Sugiero limpiar/configurar más las figuras para que no queden tan encimadas.
+
+Comentarios generales:
+La sensación que tuve es que primero tomaste el problema del agente viajero, y luego intentaste construir unas posibles aplicaciones alrededor de él. Usualmente en la vida real pasa al revés: se empieza con el problema y de ahí se modela y se resuelve. Como comento en otro rubro, sugiero no intentar "sobreabarcar" las aplicaciones. El storytelling de turismo es suficientemente bueno y es mejor si lo desarrollas y justificas mejor con más investigación. Quizás de ahí puede salir una idea más concreta para turismo.
