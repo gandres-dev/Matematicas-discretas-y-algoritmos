@@ -55,6 +55,7 @@ Ayudante: [Rodolfo Figueroa](https://github.com/RodolfoFigueroa)
 2. Blog MADI. [Liga](https://blog.nekomath.com/madi/)
 3. Practicas MADI.[Liga](https://github.com/RodolfoFigueroa/madi2022-1)
 4. Classes and Teaching by Erik Demaine. [Liga](https://erikdemaine.org/classes/)
+5. Mas notas sobre Data Structures and Algorithms [Liga](https://btholt.github.io/complete-intro-to-computer-science/)
 
 ---
 ## Bibliografía
@@ -70,3 +71,5 @@ __Textos auxiliares__
 1. Loren C. Larson. Problem-Solving through Problems. Springer Verlag
 1. Gayle L. McDowell. Cracking the coding interview
 T. Cormen et al. Introduction to algorithms
+
+
