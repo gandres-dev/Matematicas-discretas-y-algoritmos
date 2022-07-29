@@ -1,0 +1,61 @@
+# Temario
+- **Unidad 1: Fundamentos matemáticos**
+    - Introducción a principio de inducción
+    - Principio de inducción combinado con heurísticas
+    - Variantes del principio de inducción
+    - Definiciones recursivas
+    - Sucesiones recursivas y recursiones lineales
+    - Recursión e inducción
+    - Introducción a teoría de gráficas
+    - Grados, vecindades y teorema de Euler
+    - Caminos, trayectorias y ciclos
+    - Conexidad y distancia en gráficas
+    - Árboles y bosques
+    - Gráficas bipartitas, emparejamientos y teorema de Hall
+    - Conjuntos Independientes y coloraciones
+    - Gráficas planas y teorema de Kuratowski
+    - Gráficas de contextos geométricos        
+    - Principio de las casillas
+    - El teorema de Turán
+    - El teorema de Ramsey
+- **Unidad 2: Fundamentos algorítmicos**
+    - Problemas algorítmicos
+    - Análisis de correctitud
+    - Pensamiento asintótico
+    - El modelo RAM
+    - Análisis de complejidad asintótica en tiempo y espacio
+    - Estructuras de datos
+    - Árboles binarios balanceados y búsqueda binaria
+    - El problema de ordenar elementos
+    - Algoritmos de ordenamiento cuadráticos
+    - Heaps y heap-sort
+    - Quick-sort
+    - Aplicaciones de ordenar
+
+- **Tipos de algoritmos**
+    - Espacios de estados y exploración exhaustiva
+    - Algoritmos voraces
+    - Algoritmos divide y vencerás
+    - Algoritmos recursivos y el teorema maestro
+    - Programación dinámica
+    - Búsquedas combinatorias
+    - Backtrack
+    - Exploración de subconjuntos, permutaciones y combinaciones
+    - Métodos heurísticos y probabilísticos
+  
+- **Unidad 4: Algoritmos fundamentales en teoría de gráficas**
+    - Implementaciones de gráficas, gráficas ponderadas, gráficas dirigidas y redes.
+    - Búsqueda en profundidad y aplicaciones
+    - Búsqueda en anchura y aplicaciones
+    - Ordenamientos topológicos
+    - Árboles de peso mínimo: algoritmos de Prim y Kruskal
+    - Caminos de peso mínimo: algoritmos de Dijkstra y Floyd-Warshall
+    - Introducción a redes y flujos
+    - Teorema del flujo máximo – corte mínimo
+    - Algoritmo de Ford-Fulkerson y variantes  
+
+- **Extra: Problemas difíciles**
+    - Reducciones de problemas
+    - Clases P y NP
+    - P vs NP
+    - Problemas de gráficas NP-completos
